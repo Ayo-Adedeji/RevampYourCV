@@ -719,8 +719,9 @@ footer {
   }
   .list {
     text-align: center;
-    margin-top: 15px;
+    margin-top: 18px;
     font-size: 28px;
+    margin-bottom: 18px;
   }
   .post,
   .work {
@@ -730,7 +731,7 @@ footer {
     font-size: 23px;
   }
   .pro {
-    font-size: 30px;
+    font-size: 25px;
   }
   .position {
     font-size: 35px;
@@ -844,7 +845,8 @@ footer {
     }
     .list {
       text-align: center;
-      margin-top: 15px;
+      margin-top: 18px;
+      margin-bottom: 18px;
     }
     .list-it {
       justify-self: center;
@@ -905,7 +907,10 @@ footer {
       height: 100px;
     }
     .pro {
-      font-size: 17px;
+      font-size: 15px;
+    }
+    .p-cert{
+        font-size: 17px;
     }
     .message-div {
       width: 70%;
@@ -981,7 +986,8 @@ footer {
     }
     .list {
       text-align: center;
-      margin-top: 15px;
+      margin-top: 18px;
+      margin-bottom: 18px;
     }
     .list-it {
       justify-self: center;
@@ -1041,7 +1047,10 @@ footer {
       height: 100px;
     }
     .pro {
-      font-size: 17px;
+      font-size: 14px;
+    }
+    .p-cert{
+        font-size: 17px;
     }
     .message-div {
       width: 70%;
