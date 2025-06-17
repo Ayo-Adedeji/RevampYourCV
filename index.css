@@ -465,7 +465,7 @@ footer {
 }
 .p-cert {
   text-align: center;
-  padding: 20px;
+  padding: 15px;
   font-size: 25px;
   color: #ffff;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
@@ -636,6 +636,14 @@ footer {
   .education {
     width: 95%;
   }
+    .certs{
+    margin-bottom: 10px;
+  }
+  
+  .certs li{
+
+margin-top: 10px;
+  }
 }
 
 @media (max-width: 800px) {
@@ -732,6 +740,14 @@ footer {
   }
   .pro {
     font-size: 25px;
+  }
+    .certs{
+    margin-bottom: 10px;
+  }
+  
+  .certs li{
+font-size: 19px;
+margin-top: 10px;
   }
   .position {
     font-size: 35px;
@@ -912,6 +928,14 @@ footer {
     .p-cert{
         font-size: 17px;
     }
+      .certs{
+    margin-bottom: 10px;
+  }
+  
+  .certs li{
+font-size: 14px;
+margin-top: 10px;
+  }
     .message-div {
       width: 70%;
     }
@@ -1052,6 +1076,14 @@ footer {
     .p-cert{
         font-size: 17px;
     }
+      .certs{
+    margin-bottom: 10px;
+  }
+  
+  .certs li{
+font-size: 14px;
+margin-top: 10px;
+  }
     .message-div {
       width: 70%;
     }
@@ -1062,6 +1094,20 @@ footer {
 }
 @media (max-width: 350px) {
   .typewriter {
-    font-size: 30px;
+    font-size: 23px;
+  }
+  .pro{
+    font-size: 14px;
+  }
+  .certs{
+    margin-bottom: 10px;
+  }
+  
+  .certs li{
+font-size: 14px;
+margin-top: 10px;
+  }
+  .p-cert{
+    font-size: 14px;
   }
 }
